@@ -6,10 +6,7 @@
 # vingette
 -----
 
-### Assessing the Quality of Device Data Mapped to the OMOP Common Data Model: The Example of Great Ormond Street Hospital (GOSH)
-
-Marta Alcalde-Herraiz, Lydia Briggs, Elliot, Prasidha, Annika Jödicke, Daniel Prieto-Alhambra, Albert Prats-Uribe, Edward Burn
-
+### Assessing Device Data Research Readiness: A Case Study Among Patients with Patent Ductus Arteriosus in the Great Ormond Street Hospital (GOSH)
 
 ![](hds_logo.svg){width=120px}
 ![](gosh.png){width=350px}
